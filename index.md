@@ -7,3 +7,5 @@
 # You. 
 
 made a sad message describing party poopers
+
+![Image of Yaktocat, the party pooper](https://octodex.github.com/images/yaktocat.png)
