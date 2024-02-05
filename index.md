@@ -13,3 +13,9 @@ made a sad message describing party poopers
 ``` javascript
 let partyPooper = 'That darn cat! He smells'
 ```
+- [x] Make fun of cat
+- [x] Make sure cat is fed
+- [x] Call cat fat after eating
+- [x] Give cat box to play in
+- [ ] Make fort to rival cat's box fort
+- [ ] Make cat's box fort explode, taking cat as slave into my fort
